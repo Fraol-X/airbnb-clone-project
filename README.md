@@ -124,3 +124,34 @@ Understanding design properties ensures consistency in UI development. It helps 
 - Foster a collaborative and productive team environment.  
 - Coach the team on Agile principles and best practices.  
 - Ensure continuous improvement and efficiency within the team.
+
+## UI Component Patterns
+
+### Planned Components
+The following components will be implemented to ensure a seamless and intuitive user experience across the platform:
+
+- **Homepage:**  
+  - Displays an overview of available properties, categorized by types (e.g., apartments, houses, villas).  
+  - Each property type will be presented in a grid or list format, featuring Property Cards.  
+  - Includes a "Show More" button to load additional properties as users scroll or interact with the page.
+  - Features sign-in and sign-up options, allowing users to easily log in or create a new account to access more features.
+
+- **Navbar:**  
+  - A responsive navigation bar providing easy access to key pages.  
+  - Ensures smooth site navigation and displays the user’s status (e.g., signed-in user’s name or login/signup prompt).
+
+- **Property Card:**  
+  - A compact card displaying key property details such as images, title, price, and location.  
+  - Serves as a summary for each property listing, offering a quick glance of essential information.
+
+- **Footer:**  
+  - A comprehensive footer containing additional links and other relevant information for users.
+
+- **Search Bar:**  
+  - A powerful search feature that allows users to filter properties based on criteria such as destination, price range, availability, and more.
+
+- **Detail Page:**  
+  - A dedicated page showcasing detailed information about a selected property, including a thorough description, additional images, and user reviews.
+
+- **Checkout Page:**  
+  - A streamlined checkout process where users can review their booking details, enter payment information, and finalize their reservation.
