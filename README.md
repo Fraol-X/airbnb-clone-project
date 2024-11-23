@@ -65,3 +65,62 @@ A user-friendly design fosters a seamless experience, encouraging users to explo
 #### 💡 Importance of Design Properties  
 Understanding design properties ensures consistency in UI development. It helps align the implementation with the mockups, enhancing the overall user experience.
 
+## Project Roles and Responsibilities
+
+### Project Manager  
+**Key Role:** Oversee project progress, timelines, budget, and resources.  
+- Monitor project progress and ensure milestones are met.  
+- Facilitate communication within the team and with stakeholders.  
+- Identify, assess, and mitigate project risks.  
+- Serve as the primary point of contact for stakeholders and upper management.
+
+### Frontend Developers  
+**Key Role:** Implement UI/UX designs using HTML, CSS, JavaScript, React, and TailwindCSS.  
+- Develop reusable React components and integrate them with backend APIs.  
+- Ensure the application is responsive and performs well across various devices.  
+- Collaborate with designers to create visually appealing interfaces.  
+- Optimize application speed, scalability, and performance.
+
+### Backend Developers  
+**Key Role:** Develop server-side logic using Python, Node.js, or Java.  
+- Design and manage databases and data models.  
+- Create and maintain APIs for frontend integration.  
+- Implement security measures, including authentication and data protection.  
+- Optimize server performance, scalability, and response times.
+
+### Designers  
+**Key Role:** Create mockups, wireframes, and prototypes.  
+- Design the layout, user interface, and visual elements of the application.  
+- Ensure brand consistency across the application's visual design.  
+- Collaborate with frontend developers to implement designs.  
+- Conduct usability testing to gather feedback and enhance user experience.  
+- Produce high-fidelity wireframes and prototypes for developer handoff.
+
+### QA/Testers  
+**Key Role:** Execute test cases, report bugs, and ensure product quality.  
+- Develop and execute comprehensive test plans and test cases.  
+- Perform manual and automated testing to ensure functionality and quality.  
+- Identify, document, and track bugs throughout the development lifecycle.  
+- Verify bug fixes and conduct regression testing.  
+- Ensure the application meets quality standards and user requirements.
+
+### DevOps Engineers  
+**Key Role:** Set up CI/CD pipelines and monitor infrastructure.  
+- Automate deployment processes and manage cloud infrastructure.  
+- Monitor application performance, uptime, and security.  
+- Ensure secure and compliant deployments in production environments.  
+- Optimize infrastructure for performance and cost efficiency.
+
+### Product Owner  
+**Key Role:** Define and prioritize product features and requirements.  
+- Manage and refine the product backlog.  
+- Serve as the liaison between stakeholders and the development team.  
+- Ensure the product delivers value to users and aligns with business objectives.  
+- Make final decisions on scope and approve completed work.
+
+### Scrum Master  
+**Key Role:** Facilitate Agile practices and remove impediments.  
+- Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).  
+- Foster a collaborative and productive team environment.  
+- Coach the team on Agile principles and best practices.  
+- Ensure continuous improvement and efficiency within the team.
