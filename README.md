@@ -44,3 +44,24 @@ This project is a simplified booking and property management platform inspired b
 
 ### 💡 Importance of User-Friendly Design  
 A user-friendly design fosters a seamless experience, encouraging users to explore the platform, complete bookings, and return in the future.  
+
+### Design Properties  
+
+#### 🎨 Color Styles  
+- **Primary Color**: `#34967C` (Sea Turtle Green or Illuminating Emerald)  
+- **Secondary Color**: `#FFFFFF` (White)  
+- **Accent Colors**:  
+  - `#161117` (Cinder or Chinese Black)  
+  - `#222222` (Dark Jungle Green or Raisin Black)  
+
+#### 🔤 Typography  
+- **Font Family**: `Quicksand`  
+- **Font Sizes**:  
+  - Large: `94px`  
+  - Medium: `19px`  
+  - Small: `12.16px`  
+- **Font Weight**: `600`  
+
+#### 💡 Importance of Design Properties  
+Understanding design properties ensures consistency in UI development. It helps align the implementation with the mockups, enhancing the overall user experience.
+
